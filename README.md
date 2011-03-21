@@ -1,6 +1,8 @@
 Particle Sequencer
 ==================
 
+![Particle Sequencer](https://github.com/soulwire/ParticleNodeSequencer/raw/master/bin/sequencer.jpg "Particle Sequencer")
+
 Demo
 ----
 
