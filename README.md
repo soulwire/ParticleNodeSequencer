@@ -1,12 +1,12 @@
 Particle Sequencer
 ==================
 
-![Particle Sequencer](https://github.com/soulwire/ParticleNodeSequencer/raw/master/bin/sequencer.jpg "Particle Sequencer")
-
 Demo
 ----
 
 Full information and a demonstration of the sequencer can be found [here](http://blog.soulwire.co.uk/laboratory/flash/as3-tonfall-particle-node-sequencer)
+
+![Particle Sequencer](https://github.com/soulwire/ParticleNodeSequencer/raw/master/bin/sequencer.jpg "Particle Sequencer")
 
 About
 -----
